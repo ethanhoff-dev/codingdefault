@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Utah Geological Survey (UGS)</origin>
+				<pubdate>2006</pubdate>
+				<title>Geologic Map of the Smoky Mountain 30' x 60' Quadrangle, Kane and San Juan | geology_polys</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<serinfo>
+					<sername>Utah Geological Survey Map 213DM</sername>
+				</serinfo>
+				<pubinfo>
+					<pubplace>Salt Lake City, UT</pubplace>
+					<publish>Utah Geological Survey</publish>
+				</pubinfo>
+				<othercit>UGS Citation: Doelling, H.H., and Willis, G.C., 2006 (digital release), Geologic Map of the Smoky Mountain 30' x 60' Quadrangle, Kane and San Juan Counties, Utah, and Coconino County, Arizona (originally published in 2006 as UGS Map 213): Utah Geological Survey Map 213DM, 2 plates, GIS data, CD-ROM, scale 100,000.</othercit>
+				<ftname Sync="TRUE">geology</ftname>
+				<onlink>none</onlink></citeinfo>
+		</citation>
+		<descript>
+			<abstract>This digital dataset represents the geologic units of the Smoky Mountain 30' x 60' quadrangle, Kane and San Juan Counties, Utah, and Coconino County, Arizona.  Doelling originally mapped this area as part of a major study of Kane County during 1983 to 1989 (Doelling and Davis, 1989). The UGS digitized this dataset from a copy of the eastern part of the 1:100,000-scale "Geologic Map of Kane County, Utah" by Hellmut H. Doelling and Fitzhugh D. Davis, published by the Utah Geological (and Mineral) Survey in 1989 as Map 121, which was revised and hand drafted by the lead author, with minor additions from other sources.  Significant modifications were made by the authors in 2005 using 1:24,000-scale color aerial photographs with limited field verification.  The most significant modifications were to map the Page Sandstone across the map area and to modify contacts near the Lake Powell shoreline.  On parts of the source map (UGS Map 121) the Page Sandstone is included with the Navajo Sandstone and Carmel Formation.  Data is for use at scales not to exceed 1:100,000.</abstract>
+			<purpose>To provide basic geologic data in digital format for government, academic, and public users.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+		</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2006</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-112.006629</westbc>
+				<eastbc Sync="TRUE">-110.999996</eastbc>
+				<northbc Sync="TRUE">37.504233</northbc>
+				<southbc Sync="TRUE">36.995788</southbc>
+			</bounding>
+			<lboundng>
+				<leftbc Sync="TRUE">411020.510000</leftbc>
+				<rightbc Sync="TRUE">500000.362000</rightbc>
+				<topbc Sync="TRUE">4150606.500000</topbc>
+				<bottombc Sync="TRUE">4094669.190000</bottombc>
+			</lboundng>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>none</themekt>
+				<themekey>Geology</themekey>
+				<themekey>contacts</themekey>
+				<themekey>faults</themekey>
+				<themekey>shorelines</themekey>
+				<themekey>geologic formations</themekey>
+			</theme>
+			<place>
+				<placekey>Smoky Mountain 30'x60' quadrangle</placekey>
+				<placekey>Kane and San Juan Counties, Utah</placekey>
+				<placekey>Coconino County, Arizona</placekey><placekey>Lake Powell</placekey><placekey>Glen Canyon National Recreation Area</placekey></place>
+		</keywords>
+		<accconst>None</accconst>
+		<useconst>Although this product represents the work of professional scientists, the Utah Department of Natural Resources, Utah Geological Survey, makes no warranty, expressed or implied, regarding its suitability for any particular use. The Utah Department of Natural Resources, Utah Geological Survey, shall not be liable under any circumstances for any direct, indirect, special, incidental, or consequential damages with respect to claims by users of this product.
+
+For use at 1:100,000 scale only. The Utah Geological Survey does not guarantee accuracy or completeness of data.
+
+The views and conclusions contained in this document are those of the author and should not be interpreted as necessarily representing the official policies, either expressed or implied, of the U.S. Government.
+
+Persons or agencies using these data specifically agree not to misrepresent the data, nor to imply that changes they made were approved by the Utah Geological Survey, and should indicate the data source and any modifications made on plots, digital copies, derivative products, and in metadata.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>J. Buck Ehler(GIS),  Grant C. Willis(Geology)</cntper>
+					<cntorg>Utah Geological Survey (UGS)</cntorg>
+				</cntperp>
+				<cntpos>GIS Analyst</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>1594  W North Temple Ste 3110</address>
+					<address>PO Box 146100</address>
+					<city>Salt Lake City</city>
+					<state>UT</state>
+					<postal>84114-6100</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>(801) 537-3343 (Ehler)</cntvoice>
+				<cntvoice>(801) 537-3355 (Willis)</cntvoice>
+				<cntfax>(801) 537-3400</cntfax>
+				<cntemail>buckehler@utah.gov</cntemail>
+				<cntemail>grantwillis@utah.gov</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<datacred>Program Manager:  Grant C. Willis, UGS;
+Project Manager:  Donald L. Clark, UGS;
+GIS Data Preparation:  Kent D. Brown, Kelli Bacon, Darryl Greer, James W. Parker, and J. Buck Ehler (UGS);
+Review:  Donald L. Clark, Robert Ressetar, and Basia Matyjasik;
+Funding:  Funded by the Utah Geological Survey and the U.S. Geological Survey, National Geologic Mapping Program, through USGS STATEMAP award number 96HQAG1521.</datacred>
+		<secinfo>
+			<secsys>None</secsys>
+			<secclass>Unclassified</secclass>
+			<sechandl>None</sechandl>
+		</secinfo>
+		<native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.1.0.722</native>
+		<crossref>
+			<citeinfo></citeinfo>
+		</crossref>
+		<natvform Sync="TRUE">ArcInfo Coverage</natvform>
+	</idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>Feature attributes were taken from source material. Code assignments are believed to be representative of the source document.</attraccr>
+		</attracc>
+		<logic>Polygon and chain-node topology present. Data was reviewed for correct topological structure.</logic>
+		<complete>This dataset is considered to be 100% complete for this scale. No revisions are planned at this time.</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>This data meets NMAS standards for 1:100,000 scale data.</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Hellmut H. Doelling and Fitzhugh D. Davis, Utah Geological (and Mineral) Survey</origin>
+						<pubdate>1989</pubdate>
+						<title>Geologic Map of Kane County, Utah</title>
+						<geoform>map</geoform>
+						<serinfo>
+							<sername>Utah Geological Survey  Map 121</sername>
+						</serinfo>
+						<pubinfo>
+							<pubplace>Salt Lake City, Utah</pubplace>
+							<publish>Utah Geological Survey</publish>
+						</pubinfo>
+						<onlink>None</onlink>
+					</citeinfo>
+				</srccite>
+				<srcscale>100,000</srcscale>
+				<typesrc>paper</typesrc>
+				<srctime>
+					<srccurr>publication date</srccurr>
+					<timeinfo><sngdate><caldate>1989</caldate></sngdate></timeinfo></srctime>
+			</srcinfo>
+			<procstep>
+				<procdesc>This digital geologic map, and the printed version of this map (Utah Geological Survey Map 213, published in 2006), were created primarily from the eastern part of the 1:100,000-scale "Geologic Map of Kane County, Utah"  by Hellmut H. Doelling and Fitzhugh D. Davis, published by the Utah Geological (and Mineral) Survey in 1989 as Map 121 and also as a plate in Bulletin 124.   The area southeast of Lake Powell was extracted from the source maps listed in the bibliography.  The lead author hand drafted the geologic map on a mylar base map.  The authors edited and modified the map using limited field checking, and studying digital orthophotoquad maps, digital topographic base maps, and stereoscopic aerial photographs.  The most significant changes were to map the Page Sandstone across the map area and to modify several contacts near the Lake Powell shoreline.  On parts of the source map (UGS Map 121) the Page Sandstone is included with the Navajo Sandstone and Carmel Formation.   
+
+The UGS scanned the reviewed hand-drafted geologic map.  They geographically referenced the resulting raster image, then vectorized the geologic data.  The UGS modified the vector data in many areas to better-fit the digital base map, then formatted and attributed the spatial data in Arc/Info and ArcGIS. The UGS carefully reviewed color plots of the digital map to search for errors and unattributed polygons. The UGS then prepared the spatial data files and supporting documents.  The geologic map version contained in the GIS files is the same as the published map except for a few minor corrected labeling errors.</procdesc>
+			</procstep>
+			<srcinfo><srccite><citeinfo><origin>Hellmut H. Doelling and Grant C. Willis, Utah Geological Survey</origin><pubdate>2006</pubdate><title>Geologic Map of the Smoky Mountain 30' x 60' Quadrangle, Kane and San Juan Counties, Utah, and Coconino County,  Arizona</title><geoform>map</geoform><serinfo><sername>Utah Geological Survey Map 213</sername></serinfo><pubinfo><pubplace>Salt Lake City, Utah</pubplace><publish>Utah Geological Survey</publish></pubinfo><onlink>None</onlink></citeinfo></srccite><srcscale>100,000</srcscale><typesrc>Vector</typesrc><srctime><timeinfo><sngdate><caldate>2006</caldate></sngdate></timeinfo><srccurr>publication date</srccurr></srctime></srcinfo></lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="arc">
+				<sdtstype Sync="TRUE">Complete chain</sdtstype>
+				<ptvctcnt Sync="TRUE">12488</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm Name="label">
+				<sdtstype Sync="TRUE">Label point</sdtstype>
+				<ptvctcnt Sync="TRUE">4121</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm Name="polygon">
+				<sdtstype Sync="TRUE">GT-polygon composed of chains</sdtstype>
+				<ptvctcnt Sync="TRUE">4119</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm Name="tic">
+				<sdtstype Sync="TRUE">Point</sdtstype>
+				<ptvctcnt Sync="TRUE">4</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="arc">
+				<efeatyp Sync="TRUE">Simple</efeatyp>
+				<esritopo Sync="TRUE">FALSE</esritopo>
+				<linrefer Sync="TRUE">FALSE</linrefer>
+				<spindex Sync="TRUE">FALSE</spindex>
+				<efeageom Sync="TRUE">Arc</efeageom>
+				<efeacnt Sync="TRUE">12488</efeacnt>
+			</esriterm>
+			<esriterm Name="label">
+				<efeatyp Sync="TRUE">Simple</efeatyp>
+				<esritopo Sync="TRUE">FALSE</esritopo>
+				<linrefer Sync="TRUE">FALSE</linrefer>
+				<spindex Sync="TRUE">FALSE</spindex>
+				<efeageom Sync="TRUE">Label</efeageom>
+				<efeacnt Sync="TRUE">4121</efeacnt>
+			</esriterm>
+			<esriterm Name="polygon">
+				<efeatyp Sync="TRUE">Simple</efeatyp>
+				<esritopo Sync="TRUE">TRUE</esritopo>
+				<linrefer Sync="TRUE">FALSE</linrefer>
+				<spindex Sync="TRUE">FALSE</spindex>
+				<efeageom Sync="TRUE">Polygon</efeageom>
+				<efeacnt Sync="TRUE">4119</efeacnt>
+			</esriterm>
+			<esriterm Name="tic">
+				<efeatyp Sync="TRUE">Simple</efeatyp>
+				<esritopo Sync="TRUE">FALSE</esritopo>
+				<linrefer Sync="TRUE">FALSE</linrefer>
+				<spindex Sync="TRUE">FALSE</spindex>
+				<efeageom Sync="TRUE">Tic</efeageom>
+				<efeacnt Sync="TRUE">4</efeacnt>
+			</esriterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance Sync="TRUE">coordinate pair</plance>
+					<coordrep>
+						<absres Sync="TRUE">0.000518</absres>
+						<ordres Sync="TRUE">0.000518</ordres>
+					</coordrep>
+					<plandu Sync="TRUE">meters</plandu>
+				</planci>
+				<gridsys><gridsysn Sync="TRUE">Universal Transverse Mercator</gridsysn><utm><utmzone Sync="TRUE">12</utmzone><transmer><sfctrmer Sync="TRUE">0.999600</sfctrmer><longcm Sync="TRUE">-111.000000</longcm><latprjo Sync="TRUE">0.000000</latprjo><feast Sync="TRUE">500000.000000</feast><fnorth Sync="TRUE">0.000000</fnorth></transmer></utm></gridsys></planar>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1927</horizdn>
+				<ellips Sync="TRUE">Clarke 1866</ellips>
+				<semiaxis Sync="TRUE">6378206.400000</semiaxis>
+				<denflat Sync="TRUE">294.978698</denflat>
+			</geodetic>
+			<cordsysn>
+				<geogcsn Sync="TRUE">GCS_North_American_1927</geogcsn>
+				<projcsn Sync="TRUE">NAD_1927_UTM_Zone_12N</projcsn>
+			</cordsysn>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="geology.aat">
+			<enttyp>
+				<enttypl Sync="TRUE">geology.aat</enttypl>
+				<enttypc Sync="TRUE">12488</enttypc>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+			</enttyp>
+			<attr>
+				<attrlabl Sync="TRUE">FID</attrlabl>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attalias Sync="TRUE">FID</attalias>
+				<attrtype Sync="TRUE">OID</attrtype>
+				<attscale Sync="TRUE">0</attscale>
+				<attwidth Sync="TRUE">4</attwidth>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Shape</attrlabl>
+				<attrdef Sync="TRUE">Feature geometry.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Coordinates defining the features.</udom>
+				</attrdomv>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attalias Sync="TRUE">Shape</attalias>
+				<attrtype Sync="TRUE">Geometry</attrtype>
+				<attscale Sync="TRUE">0</attscale>
+				<attwidth Sync="TRUE">0</attwidth>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">FNODE#</attrlabl>
+				<attrdef Sync="TRUE">Internal node number for the beginning of an arc (from-node).</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<atoutwid Sync="TRUE">5</atoutwid>
+				<attrtype Sync="TRUE">Binary</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">TNODE#</attrlabl>
+				<attrdef Sync="TRUE">Internal node number for the end of an arc (to-node).</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<atoutwid Sync="TRUE">5</atoutwid>
+				<attrtype Sync="TRUE">Binary</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">LPOLY#</attrlabl>
+				<attrdef Sync="TRUE">Internal node number for the left polygon.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<atoutwid Sync="TRUE">5</atoutwid>
+				<attrtype Sync="TRUE">Binary</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">RPOLY#</attrlabl>
+				<attrdef Sync="TRUE">Internal node number for the right polygon.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<atoutwid Sync="TRUE">5</atoutwid>
+				<attrtype Sync="TRUE">Binary</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">LENGTH</attrlabl>
+				<attrdef Sync="TRUE">Length of feature in internal units.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+				<atnumdec Sync="TRUE">5</atnumdec>
+				<atoutwid Sync="TRUE">18</atoutwid>
+				<attrtype Sync="TRUE">Float</attrtype>
+				<attwidth Sync="TRUE">8</attwidth>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">GEOLOGY#</attrlabl>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<atoutwid Sync="TRUE">5</atoutwid>
+				<attrtype Sync="TRUE">Binary</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">GEOLOGY-ID</attrlabl>
+				<attrdef Sync="TRUE">User-defined feature number.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<atoutwid Sync="TRUE">5</atoutwid>
+				<attrtype Sync="TRUE">Binary</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">TYPE</attrlabl>
+				<atoutwid Sync="TRUE">25</atoutwid>
+				<attrtype Sync="TRUE">Character</attrtype>
+				<attwidth Sync="TRUE">25</attwidth>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">SUBTYPE</attrlabl>
+				<atoutwid Sync="TRUE">25</atoutwid>
+				<attrtype Sync="TRUE">Character</attrtype>
+				<attwidth Sync="TRUE">25</attwidth>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">MODIFIER</attrlabl>
+				<atoutwid Sync="TRUE">30</atoutwid>
+				<attrtype Sync="TRUE">Character</attrtype>
+				<attwidth Sync="TRUE">30</attwidth>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">NOTES</attrlabl>
+				<atoutwid Sync="TRUE">30</atoutwid>
+				<attrtype Sync="TRUE">Character</attrtype>
+				<attwidth Sync="TRUE">30</attwidth>
+			</attr>
+		</detailed>
+		<detailed Name="geology.pat">
+			<enttyp>
+				<enttypl Sync="TRUE">geology.pat</enttypl>
+				<enttypc Sync="TRUE">4119</enttypc>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+			</enttyp>
+			<attr>
+				<attrlabl Sync="TRUE">FID</attrlabl>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attalias Sync="TRUE">FID</attalias>
+				<attrtype Sync="TRUE">OID</attrtype>
+				<attscale Sync="TRUE">0</attscale>
+				<attwidth Sync="TRUE">4</attwidth>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Shape</attrlabl>
+				<attrdef Sync="TRUE">Feature geometry.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Coordinates defining the features.</udom>
+				</attrdomv>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attalias Sync="TRUE">Shape</attalias>
+				<attrtype Sync="TRUE">Geometry</attrtype>
+				<attscale Sync="TRUE">0</attscale>
+				<attwidth Sync="TRUE">0</attwidth>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">AREA</attrlabl>
+				<attrdef Sync="TRUE">Area of feature in internal units squared.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+				<atnumdec Sync="TRUE">5</atnumdec>
+				<atoutwid Sync="TRUE">18</atoutwid>
+				<attrtype Sync="TRUE">Float</attrtype>
+				<attwidth Sync="TRUE">8</attwidth>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">PERIMETER</attrlabl>
+				<attrdef Sync="TRUE">Perimeter of feature in internal units.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+				<atnumdec Sync="TRUE">5</atnumdec>
+				<atoutwid Sync="TRUE">18</atoutwid>
+				<attrtype Sync="TRUE">Float</attrtype>
+				<attwidth Sync="TRUE">8</attwidth>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">GEOLOGY#</attrlabl>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<atoutwid Sync="TRUE">5</atoutwid>
+				<attrtype Sync="TRUE">Binary</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">GEOLOGY-ID</attrlabl>
+				<attrdef Sync="TRUE">User-defined feature number.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<atoutwid Sync="TRUE">5</atoutwid>
+				<attrtype Sync="TRUE">Binary</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">UNITSYMBOL</attrlabl>
+				<atoutwid Sync="TRUE">15</atoutwid>
+				<attrtype Sync="TRUE">Character</attrtype>
+				<attwidth Sync="TRUE">15</attwidth>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">UNITNAME</attrlabl>
+				<atoutwid Sync="TRUE">80</atoutwid>
+				<attrtype Sync="TRUE">Character</attrtype>
+				<attwidth Sync="TRUE">80</attwidth>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">AGE</attrlabl>
+				<atoutwid Sync="TRUE">50</atoutwid>
+				<attrtype Sync="TRUE">Character</attrtype>
+				<attwidth Sync="TRUE">50</attwidth>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">NOTES</attrlabl>
+				<atoutwid Sync="TRUE">50</atoutwid>
+				<attrtype Sync="TRUE">Character</attrtype>
+				<attwidth Sync="TRUE">50</attwidth>
+			</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntperp>
+					<cntper>DNR Bookstore</cntper>
+					<cntorg>Utah Geological Survey (UGS)</cntorg>
+				</cntperp>
+				<cntpos>Bookstore Manager</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>1594 W North Temple Ste 3110</address>
+					<address>PO Box 146100</address>
+					<city>Salt Lake City</city>
+					<state>UT</state>
+					<postal>84114-6100</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>(801) 537-3320</cntvoice>
+				<cntfax>(801) 537-3395</cntfax>
+				<cntemail>geostore@utah.gov</cntemail>
+				<cntvoice>(888) UTAH MAP</cntvoice></cntinfo>
+		</distrib>
+		<resdesc>State Geographic Information Database</resdesc>
+		<distliab>UGS provides these data "as is" without liability</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize Sync="TRUE">9.542</transize>
+					<dssize Sync="TRUE">9.542</dssize>
+				</digtinfo>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20061120</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Utah Geological Survey (UGS)</cntorg>
+					<cntper>J. Buck Ehler</cntper>
+				</cntorgp>
+				<cntpos>GIS Analyst</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>1594 W North Temple Ste 3110</address>
+					<address>PO Box 146100</address>
+					<city>Salt Lake City</city>
+					<state>UT</state>
+					<postal>84114-6100</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>(801) 537-3344</cntvoice>
+				<cntfax>(801) 537-3400</cntfax>
+				<cntemail>buckehler@utah.gov</cntemail>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metac>None</metac>
+		<metuc>None</metuc>
+		<langmeta Sync="TRUE">en</langmeta>
+		<metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<dataIdInfo>
+		<envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.1.0.722</envirDesc>
+		<dataLang>
+			<languageCode Sync="TRUE" value="en"></languageCode>
+		</dataLang>
+		<geoBox esriExtentType="decdegrees">
+			<westBL Sync="TRUE">-112.006629</westBL>
+			<northBL Sync="TRUE">37.504233</northBL>
+			<southBL Sync="TRUE">36.995788</southBL>
+			<eastBL Sync="TRUE">-110.999996</eastBL>
+			<exTypeCode Sync="TRUE">1</exTypeCode>
+		</geoBox>
+		<idCitation>
+			<resTitle Sync="TRUE">geology</resTitle>
+			<presForm>
+				<PresFormCd Sync="TRUE" value="005"></PresFormCd>
+			</presForm>
+		</idCitation>
+		<spatRpType>
+			<SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd>
+		</spatRpType>
+		<dataExt>
+			<geoEle>
+				<GeoBndBox esriExtentType="native">
+					<westBL Sync="TRUE">411020.51</westBL>
+					<eastBL Sync="TRUE">500000.362</eastBL>
+					<northBL Sync="TRUE">4150606.5</northBL>
+					<southBL Sync="TRUE">4094669.19</southBL>
+					<exTypeCode Sync="TRUE">1</exTypeCode>
+				</GeoBndBox>
+			</geoEle>
+		</dataExt>
+	</dataIdInfo>
+	<distInfo>
+		<distributor>
+			<distorTran>
+				<onLineSrc>
+					<orDesc Sync="TRUE">002</orDesc>
+					<protocol Sync="TRUE">Local Area Network</protocol>
+					<linkage Sync="TRUE">file://\\NRUGSDGREER1\Jobs\smokymnt30x60\smoky092706\coverages\geology</linkage>
+				</onLineSrc>
+				<transSize Sync="TRUE">9.542</transSize>
+			</distorTran>
+			<distorFormat>
+				<formatName Sync="TRUE">ArcInfo Coverage</formatName>
+			</distorFormat>
+		</distributor>
+	</distInfo>
+	<Esri>
+		<CreaDate>20060927</CreaDate>
+		<ModDate>20061120</ModDate>
+		<ModTime>14161600</ModTime>
+		<SyncDate>20060927</SyncDate>
+		<SyncOnce>FALSE</SyncOnce>
+		<SyncTime>15183300</SyncTime>
+		<CreaTime>15182300</CreaTime>
+		<MetaID>{87D52793-62D9-466B-BF07-F3BA85F4B3AD}</MetaID><Sync>FALSE</Sync></Esri>
+	<mdChar>
+		<CharSetCd Sync="TRUE" value="004"></CharSetCd>
+	</mdChar>
+	<mdDateSt Sync="TRUE">20061120</mdDateSt>
+	<mdHrLv>
+		<ScopeCd Sync="TRUE" value="005"></ScopeCd>
+	</mdHrLv>
+	<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+	<mdLang>
+		<languageCode Sync="TRUE" value="en"></languageCode>
+	</mdLang>
+	<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+	<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+	<refSysInfo>
+		<RefSystem>
+			<refSysID>
+				<identCode Sync="TRUE">NAD_1927_UTM_Zone_12N</identCode>
+			</refSysID>
+		</RefSystem>
+	</refSysInfo>
+	<spatRepInfo>
+		<VectSpatRep>
+			<topLvl>
+				<TopoLevCd Sync="TRUE" value="004"></TopoLevCd>
+			</topLvl>
+			<geometObjs Name="arc"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="003"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">12488</geoObjCnt></geometObjs><geometObjs Name="label"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="004"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">4121</geoObjCnt></geometObjs><geometObjs Name="polygon"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="002"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">4119</geoObjCnt></geometObjs><geometObjs Name="tic"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="004"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">4</geoObjCnt></geometObjs></VectSpatRep>
+	</spatRepInfo>
+</metadata>
